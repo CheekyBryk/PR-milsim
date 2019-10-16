@@ -1,0 +1,231 @@
+#menu {
+	height:85px;
+	width:auto;
+	background-color:white;
+}
+body{
+	background-color:black;
+	
+}
+#headofsite{
+	height:22px;
+	width:auto;
+	margin:0 0 8px 0;
+	background-color:black;
+}
+#call{
+	float:right;
+	color:#ffd5d5;
+	text-decoration:none;
+	font-size:18px;
+	margin-right:70px;
+}
+#call:hover{
+	color:#fb4a0f;
+	transition:0.7s;
+}
+#callimg{
+	float:right;
+	margin-right:10px;
+}
+#mail{
+	float:right;
+	color:#ffd5d5;
+	text-decoration:none;
+	font-size:18px;
+	margin-right:10px;
+}
+#mail:hover{
+	color:#fb4a0f;
+	transition:0.7s;
+}
+#mailimg{
+	float:right;
+	margin-right:10px;
+}
+
+#himg{
+	float:left;
+	margin:0px 0 0 20px;
+}
+.wrapper{    
+	max-width: 1340px;
+    margin: 0 auto;
+    padding: 0 30px;
+	position: relative;
+	padding-top:100px;
+	}
+.wrapperabout{    
+	max-width: 700px;
+    margin: 0 auto;
+    padding: 0 30px;
+	position: relative;
+	padding-top:100px;
+	}
+.aboutwrapper{    
+	max-width: 400px;
+    margin: 0 auto;
+    padding: 0 30px;
+	position: relative;
+	padding-top:100px;
+	text-align:center;
+	color:orange;
+	}
+	.fon2{
+		margin-top:280px;
+		position:absolute;
+	}
+	.fullabout{
+		padding-top:200px;
+		position:relative;
+		font-size:20px;
+		color:#AFAFAF;
+		font-family:sans-serif;
+	}
+#aboutPR{
+	font-size:60px;
+	color:white;
+	font-family:sans-serif;
+}
+#underaboutPR{
+	background-color:#121212;
+	color:orange;
+	border-style:solid;
+	border-color:#121212;
+	border-width:6px;
+	font-size:30px;
+}
+
+.hlinks{	
+	left:80%;
+	float:right;
+	margin:29px 50px 10px 10px;
+	font-size:30px;
+	text-decoration:none;
+	color:#000000;
+	
+}
+.hlinks:hover{
+	color:#e19902;
+	transition:0.5s;
+}
+.gear1{
+	margin-right:75px;
+	display:block;
+	
+}
+.fon{
+	position:absolute;
+	
+}
+	
+
+.shortabout{
+	position:relative;
+	color:#ffd5d5;
+	margin-top:20px;
+	font-size:30px;
+	color:white;
+	font-family:"Trebushet MS";
+
+	
+}
+#shortabouttext
+{
+	background-color:black;
+	color:orange;
+	border-style:solid;
+	border-color:black;
+	border-width:6px;
+}
+.wrapper1{    
+	max-width: 500px;
+    margin: 0 auto;
+    padding: 0 30px;
+	position: relative;
+	}
+footer{
+	text-align:center;
+	margin-top:350px;
+	background-color:#121212;
+	padding-top:0;
+	font-size:30px;
+	color:#F9F9F9;
+	padding-top:5px;
+	padding-bottom:25px;
+}
+#footerdescription{
+	font-size:20px;
+	color:#747476;
+}
+.wrapper2{    
+	max-width: 200px;
+    margin: 0 auto;
+    padding: 0 30px;
+	position: relative;
+	
+	}
+#link-imgvk{
+	background-image: url(img/menu_vk.png);
+	margin-right:40px;
+	cursor:pointer;
+	width:20px;
+	height:20px; 
+	border:none;
+	outline:none;
+	float:right;
+}
+#link-imgvk:hover{
+	background-color:#4F7DB3;
+	transition:0.8s;
+	border-radius:7px;
+}
+#link-imgfb{
+
+	background-image: url(img/menu_facebook.png);
+	cursor:pointer;
+	width:20px;
+	height:20px; 
+	border:none;
+	outline:none;
+	float:right;
+	margin-right:10px;
+}
+#link-imgfb:hover{
+	background-color:#4064AD;
+	transition:0.8s;
+	border-radius:7px;
+}
+#link-imginsta{
+
+	background-image: url(img/menu_insta.png);
+	cursor:pointer;
+	margin-right:10px;
+	width:20px;
+	height:20px; 
+	border:none;
+	outline:none;
+	float:right;
+}
+#link-imginsta:hover{
+	background-color:#774B9C;
+	transition:0.8s;
+	border-radius:7px;
+}
+#link-imgyt{
+
+	background-image: url(img/menu_youtube.png);
+	cursor:pointer;
+	width:27px;
+	margin-right:10px;
+	height:20px; 
+	border:none;
+	outline:none;
+	float:right;
+}
+#link-imgyt:hover{
+	background-color:#EA0C00;
+	transition:0.8s;
+	border-radius:7px;
+}
+
